@@ -22,3 +22,7 @@ core.symlinks=false
 core.ignorecase=true
 
 Tengo 40 años
+
+Añado mas lineas
+
+Cansado
