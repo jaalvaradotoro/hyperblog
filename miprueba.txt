@@ -1,0 +1,14 @@
+Familia Basica
+Alexander Alvarado
+Pilar Ramos
+Juan Se Alvarado 
+
+Edades de los perritos
+40
+45
+16
+
+Estado de todos
+muy bien 
+hay va
+loco
