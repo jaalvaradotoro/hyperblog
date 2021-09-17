@@ -12,3 +12,5 @@ Estado de todos
 muy bien 
 hay va
 loco
+
+Voy a hacer la prueba de git amend y otra
